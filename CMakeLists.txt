@@ -70,3 +70,8 @@ target_link_libraries(${CMAKE_PROJECT_NAME}
 
     # Add user defined libraries
 )
+# This line adds the linker flag `-u _printf_float` to the executable linker flags.
+# The `-u _printf_float` flag forces the linker to include floating point support
+# for the `printf` function, which is necessary if you want to use `printf` with
+# floating point numbers in your project.
+set(CMAKE_EXE_LINKER_FLAGS "${CMAKE_EXE_LINKER_FLAGS} -u _printf_float")

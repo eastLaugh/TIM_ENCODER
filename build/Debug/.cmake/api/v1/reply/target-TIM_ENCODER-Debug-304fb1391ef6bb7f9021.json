@@ -190,7 +190,7 @@
 				"role" : "flags"
 			},
 			{
-				"fragment" : "",
+				"fragment" : "-u _printf_float",
 				"role" : "flags"
 			}
 		],
