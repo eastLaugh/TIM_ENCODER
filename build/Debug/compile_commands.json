@@ -1,6 +1,18 @@
 [
 {
   "directory": "E:/stm32/TIM_ENCODER/build/Debug",
+  "command": "C:\\Users\\east_\\.eide\\tools\\gcc_arm\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/stm32/TIM_ENCODER/cmake/stm32cubemx/../../Core/Inc -IC:/Users/east_/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.6/Drivers/STM32F1xx_HAL_Driver/Inc -IC:/Users/east_/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.6/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -IC:/Users/east_/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.6/Drivers/CMSIS/Device/ST/STM32F1xx/Include -IC:/Users/east_/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.6/Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m3  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\TIM_ENCODER.dir\\Core\\Src\\font.c.obj -c E:\\stm32\\TIM_ENCODER\\Core\\Src\\font.c",
+  "file": "E:\\stm32\\TIM_ENCODER\\Core\\Src\\font.c",
+  "output": "CMakeFiles\\TIM_ENCODER.dir\\Core\\Src\\font.c.obj"
+},
+{
+  "directory": "E:/stm32/TIM_ENCODER/build/Debug",
+  "command": "C:\\Users\\east_\\.eide\\tools\\gcc_arm\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/stm32/TIM_ENCODER/cmake/stm32cubemx/../../Core/Inc -IC:/Users/east_/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.6/Drivers/STM32F1xx_HAL_Driver/Inc -IC:/Users/east_/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.6/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -IC:/Users/east_/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.6/Drivers/CMSIS/Device/ST/STM32F1xx/Include -IC:/Users/east_/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.6/Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m3  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\TIM_ENCODER.dir\\Core\\Src\\oled.c.obj -c E:\\stm32\\TIM_ENCODER\\Core\\Src\\oled.c",
+  "file": "E:\\stm32\\TIM_ENCODER\\Core\\Src\\oled.c",
+  "output": "CMakeFiles\\TIM_ENCODER.dir\\Core\\Src\\oled.c.obj"
+},
+{
+  "directory": "E:/stm32/TIM_ENCODER/build/Debug",
   "command": "C:\\Users\\east_\\.eide\\tools\\gcc_arm\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -IE:/stm32/TIM_ENCODER/cmake/stm32cubemx/../../Core/Inc -IC:/Users/east_/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.6/Drivers/STM32F1xx_HAL_Driver/Inc -IC:/Users/east_/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.6/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -IC:/Users/east_/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.6/Drivers/CMSIS/Device/ST/STM32F1xx/Include -IC:/Users/east_/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.6/Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m3  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\TIM_ENCODER.dir\\Core\\Src\\main.c.obj -c E:\\stm32\\TIM_ENCODER\\Core\\Src\\main.c",
   "file": "E:\\stm32\\TIM_ENCODER\\Core\\Src\\main.c",
   "output": "CMakeFiles\\TIM_ENCODER.dir\\Core\\Src\\main.c.obj"
